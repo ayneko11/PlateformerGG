@@ -1,5 +1,20 @@
 {
   "resources": [
+    {"id":{"name":"sPlayer_run","path":"sprites/sPlayer_run/sPlayer_run.yy",},"order":2,},
+    {"id":{"name":"sEnnemie_run","path":"sprites/sEnnemie_run/sEnnemie_run.yy",},"order":6,},
+    {"id":{"name":"sPlayer_jump","path":"sprites/sPlayer_jump/sPlayer_jump.yy",},"order":3,},
+    {"id":{"name":"sMur","path":"sprites/sMur/sMur.yy",},"order":1,},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},"order":8,},
+    {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":4,},
+    {"id":{"name":"oEnnemi","path":"objects/oEnnemi/oEnnemi.yy",},"order":2,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"sGun","path":"sprites/sGun/sGun.yy",},"order":7,},
+    {"id":{"name":"sBack","path":"sprites/sBack/sBack.yy",},"order":4,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"oGun","path":"objects/oGun/oGun.yy",},"order":3,},
+    {"id":{"name":"oMur","path":"objects/oMur/oMur.yy",},"order":1,},
+    {"id":{"name":"sEnnemie","path":"sprites/sEnnemie/sEnnemie.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -17,12 +32,13 @@
   },
   "RoomOrder": [
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"Room2","path":"rooms/Room2/Room2.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sounds.yy","order":3,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Paths.yy","order":4,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms/Paths.yy","order":2,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts.yy","order":5,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Shaders.yy","order":6,"resourceVersion":"1.0","name":"Shaders","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Fonts.yy","order":7,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},

@@ -1,0 +1,10 @@
+enome galere pour le masque de collision:
+j'ai du mettre en commentaire chaqsue segments de mon code pour me rendre compte qu'enft c'était le place meeting le pb, 
+directement lié aux masque de colision, 
+
+Need: sprite player jump 
+
+//////
+
+Anim ennemi manque derniere frame car strip pas aligné.
+-Manque sprite ennemi jump
